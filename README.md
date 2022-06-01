@@ -30,8 +30,11 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaju7&layout=compact&langs_count=16&theme=dracula"/>
 </div>
   
+ 
+ 
+ 
   <div>
-    ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/Anaju7/Anaju7/blob/output/github-contribution-grid-snake.svg)
   </div>
 
   
