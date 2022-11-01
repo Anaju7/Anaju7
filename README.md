@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p>Front-End Developer, student and eternal apprentice 📚💻</p>
 
-- 🔭 I’m currently working on Angular V13
+- 🔭 I’m currently working on Angular
 - 💬 Ask me about JavaScript/CSS
 - 😄 Pronouns: She / Her
 
