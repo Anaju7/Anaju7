@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 👩‍💻 Application Development - <a href="https://www.accenture.com/br-pt?c=acn_glb_brandexpressiongoogle_11608449&n=psgs_1020&gclsrc=aw.ds&gclid=EAIaIQobChMIpdWR9bnC8wIV34taBR0RbAyAEAAYASAAEgLyO_D_BwE">ACCENTURE</a>
 
-<p>Front-End Developer, student and eternal apprentice 📚💻</p>
+<p>Front-End Developer 📚💻</p>
 
-- 🔭 I’m currently working on Angular
-- 💬 Ask me about JavaScript/CSS
-- 😄 Pronouns: She / Her
+- 🔭 I’m currently working on <a href="https://www.accenture.com/br-pt?c=acn_glb_brandexpressiongoogle_11608449&n=psgs_1020&gclsrc=aw.ds&gclid=EAIaIQobChMIpdWR9bnC8wIV34taBR0RbAyAEAAYASAAEgLyO_D_BwE">ACCENTURE</a>
+- 💬 Ask me about JavaScript/OutSystems
+- 😄 Pronouns: She/Her
 
 <h2>Technologies & Tools 🚀💻</h2>
 
