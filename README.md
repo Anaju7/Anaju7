@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <p>Front-End Developer 📚💻</p>
 
-- 🔭 I’m currently working on <a href="https://www.accenture.com/br-pt?c=acn_glb_brandexpressiongoogle_11608449&n=psgs_1020&gclsrc=aw.ds&gclid=EAIaIQobChMIpdWR9bnC8wIV34taBR0RbAyAEAAYASAAEgLyO_D_BwE">ACCENTURE</a>
 - 💬 Ask me about JavaScript/OutSystems
 - 😄 Pronouns: She/Her
 
